@@ -1,0 +1,467 @@
+{
+ "ECM": [
+  {
+   "name": "Amanita muscaria",
+   "key": 8168319,
+   "sci": "Amanita muscaria (L.) Lam.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Amanita rubescens",
+   "key": 7496350,
+   "sci": "Amanita rubescens Pers.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Amanita citrina",
+   "key": 3328320,
+   "sci": "Amanita citrina Pers.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Amanita phalloides",
+   "key": 5240325,
+   "sci": "Amanita phalloides (Vaill. ex Fr.) Link",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Boletus edulis",
+   "key": 5954958,
+   "sci": "Boletus edulis Bull.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Imleria badia",
+   "key": 7832732,
+   "sci": "Imleria badia (Fr.) Vizzini",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Xerocomellus chrysenteron",
+   "key": 2519413,
+   "sci": "Xerocomellus chrysenteron (Bull.) \u0160utara",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Leccinum scabrum",
+   "key": 9141390,
+   "sci": "Leccinum scabrum (Bull.) Gray",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Suillus luteus",
+   "key": 7777157,
+   "sci": "Suillus luteus (L.) Roussel",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Suillus grevillei",
+   "key": 5239864,
+   "sci": "Suillus grevillei (Klotzsch) Singer",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Paxillus involutus",
+   "key": 5240002,
+   "sci": "Paxillus involutus (Batsch) Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Laccaria laccata",
+   "key": 2530926,
+   "sci": "Laccaria laccata (Scop.) Cooke",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Laccaria amethystina",
+   "key": 2530983,
+   "sci": "Laccaria amethystina Cooke",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Russula ochroleuca",
+   "key": 2551419,
+   "sci": "Russula ochroleuca Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Russula nigricans",
+   "key": 9223923,
+   "sci": "Russula adusta (Pers.) Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED(via synonym)"
+  },
+  {
+   "name": "Russula cyanoxantha",
+   "key": 2551542,
+   "sci": "Russula cyanoxantha (Schaeff.) Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Lactarius quietus",
+   "key": 5248616,
+   "sci": "Lactarius quietus (Fr.) Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Lactarius turpis",
+   "key": 5248667,
+   "sci": "Lactarius turpis (Weinm.) Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Lactarius tabidus",
+   "key": 5248614,
+   "sci": "Lactarius tabidus Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Cantharellus cibarius",
+   "key": 5249504,
+   "sci": "Cantharellus cibarius Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Hydnum repandum",
+   "key": 2554716,
+   "sci": "Hydnum repandum L.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Scleroderma citrinum",
+   "key": 5239982,
+   "sci": "Scleroderma citrinum Pers.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Tricholoma sulphureum",
+   "key": 8897119,
+   "sci": "Tricholoma sulphureum (Bull.) P.Kumm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Cortinarius semisanguineus",
+   "key": 2529327,
+   "sci": "Cortinarius semisanguineus (Fr.) Gillet",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Hebeloma crustuliniforme",
+   "key": 2533043,
+   "sci": "Hebeloma crustuliniforme (Bull.) Qu\u00e9l.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Inocybe geophylla",
+   "key": 3330851,
+   "sci": "Inocybe geophylla P.Kumm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  }
+ ],
+ "SAP": [
+  {
+   "name": "Hypholoma fasciculare",
+   "key": 3293632,
+   "sci": "Hypholoma fasciculare (Huds.) P.Kumm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Mycena galericulata",
+   "key": 2526880,
+   "sci": "Mycena galericulata (Scop.) Gray",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Mycena pura",
+   "key": 2527219,
+   "sci": "Mycena pura (Pers.) P.Kumm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Clitocybe nebularis",
+   "key": 2531072,
+   "sci": "Clitocybe nebularis (Batsch) P.Kumm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Lepista nuda",
+   "key": 5242048,
+   "sci": "Lepista nuda (Bull.) Cooke",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Gymnopus dryophilus",
+   "key": 5243756,
+   "sci": "Gymnopus dryophilus (Bull.) Murrill",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Rhodocollybia butyracea",
+   "key": 9217873,
+   "sci": "Rhodocollybia butyracea (Bull.) Lennox",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Armillaria mellea",
+   "key": 2536891,
+   "sci": "Armillaria mellea (Vahl) P.Kumm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Coprinus comatus",
+   "key": 7987658,
+   "sci": "Coprinus comatus (O.F.M\u00fcll.) Pers.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Coprinellus micaceus",
+   "key": 2534578,
+   "sci": "Coprinellus micaceus (Bull.) Vilgalys, Hopple & Jacq.Johnson",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Pleurotus ostreatus",
+   "key": 2526530,
+   "sci": "Pleurotus ostreatus (Jacq.) P.Kumm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Kuehneromyces mutabilis",
+   "key": 2533962,
+   "sci": "Kuehneromyces mutabilis (Schaeff.) Singer & A.H.Sm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Phallus impudicus",
+   "key": 3314876,
+   "sci": "Phallus impudicus L.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Lycoperdon perlatum",
+   "key": 5243258,
+   "sci": "Lycoperdon perlatum Pers.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Macrolepiota procera",
+   "key": 8914748,
+   "sci": "Macrolepiota procera (Scop.) Singer",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Marasmius oreades",
+   "key": 2537250,
+   "sci": "Marasmius oreades (Bolton) Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Agaricus campestris",
+   "key": 5243458,
+   "sci": "Agaricus campestris L.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Stropharia aeruginosa",
+   "key": 2533359,
+   "sci": "Stropharia aeruginosa (Curtis) Qu\u00e9l.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Flammulina velutipes",
+   "key": 3341441,
+   "sci": "Flammulina velutipes (Curtis) Singer",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Calocera viscosa",
+   "key": 9134585,
+   "sci": "Calocera viscosa (Pers.) Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Mycena inclinata",
+   "key": 4911809,
+   "sci": "Mycena inclinata (Fr.) Qu\u00e9l.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Auricularia auricula-judae",
+   "key": 5249271,
+   "sci": "Auricularia auricula-judae (Bull.) Qu\u00e9l.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Clitocybe odora",
+   "key": 2531124,
+   "sci": "Clitocybe odora (Bull.) P.Kumm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Gymnopus peronatus",
+   "key": 12092733,
+   "sci": "Collybiopsis peronata (Bolton) R.H.Petersen",
+   "match": "EXACT",
+   "status": "ACCEPTED(via synonym)"
+  }
+ ],
+ "GEN_SENS": [
+  {
+   "name": "Cortinarius",
+   "key": 2524960,
+   "sci": "Cortinarius (Pers.) Gray, 1821",
+   "match": "EXACT",
+   "status": "DOUBTFUL"
+  },
+  {
+   "name": "Tricholoma",
+   "key": 2527766,
+   "sci": "Tricholoma (Fr.) Staude",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Hydnum",
+   "key": 2513763,
+   "sci": "Hydnum L.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Cantharellus",
+   "key": 9623860,
+   "sci": "Cantharellus Adans. ex Fr., 1821",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Hydnellum",
+   "key": 2522201,
+   "sci": "Hydnellum P.Karst.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Sarcodon",
+   "key": 2521435,
+   "sci": "Sarcodon Qu\u00e9l. ex P.Karst.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Craterellus",
+   "key": 2521421,
+   "sci": "Craterellus Pers.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Phellodon",
+   "key": 2522127,
+   "sci": "Phellodon P.Karst.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  }
+ ],
+ "GEN_TOL": [
+  {
+   "name": "Paxillus",
+   "key": 2521516,
+   "sci": "Paxillus Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Laccaria",
+   "key": 2526677,
+   "sci": "Laccaria Berk. & Broome, 1883",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Scleroderma",
+   "key": 2524936,
+   "sci": "Scleroderma Pers., 1801",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Thelephora",
+   "key": 2513794,
+   "sci": "Thelephora Ehrh. ex Willd.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Hebeloma",
+   "key": 2528519,
+   "sci": "Hebeloma (Fr.) P.Kumm.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  }
+ ],
+ "SP_TOL": [
+  {
+   "name": "Lactarius quietus",
+   "key": 5248616,
+   "sci": "Lactarius quietus (Fr.) Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  },
+  {
+   "name": "Lactarius tabidus",
+   "key": 5248614,
+   "sci": "Lactarius tabidus Fr.",
+   "match": "EXACT",
+   "status": "ACCEPTED"
+  }
+ ]
+}

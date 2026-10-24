@@ -1,0 +1,219 @@
+{
+ "n_SH": 90281,
+ "share_with_phylum": 0.9818123414671969,
+ "share_with_class": 0.9268506108705044,
+ "share_with_order": 0.8932001196264995,
+ "share_with_family": 0.7767082774891727,
+ "share_with_genus": 0.6647467351934515,
+ "share_with_species": 0.364163002182076,
+ "distinct_species_names": 26170,
+ "by_phylum": [
+  {
+   "phylum": "Ascomycota",
+   "n": 43428,
+   "named": 0.4043243990052501
+  },
+  {
+   "phylum": "Basidiomycota",
+   "n": 36909,
+   "named": 0.3821290200222168
+  },
+  {
+   "phylum": "Glomeromycota",
+   "n": 1855,
+   "named": 0.24043126684636118
+  },
+  {
+   "phylum": "Chytridiomycota",
+   "n": 1797,
+   "named": 0.08069003895381191
+  },
+  {
+   "phylum": "Rozellomycota",
+   "n": 1682,
+   "named": 0.0017835909631391202
+  },
+  {
+   "phylum": "(unassigned)",
+   "n": 1642,
+   "named": 0.0
+  },
+  {
+   "phylum": "Mucoromycota",
+   "n": 1031,
+   "named": 0.3802133850630456
+  },
+  {
+   "phylum": "Mortierellomycota",
+   "n": 655,
+   "named": 0.13282442748091602
+  },
+  {
+   "phylum": "Zoopagomycota",
+   "n": 578,
+   "named": 0.04844290657439446
+  },
+  {
+   "phylum": "GS01 phy Incertae sedis",
+   "n": 169,
+   "named": 0.0
+  },
+  {
+   "phylum": "Kickxellomycota",
+   "n": 128,
+   "named": 0.1796875
+  },
+  {
+   "phylum": "Neocallimastigomycota",
+   "n": 87,
+   "named": 0.4942528735632184
+  },
+  {
+   "phylum": "Blastocladiomycota",
+   "n": 79,
+   "named": 0.13924050632911392
+  },
+  {
+   "phylum": "Olpidiomycota",
+   "n": 54,
+   "named": 0.1111111111111111
+  },
+  {
+   "phylum": "Entorrhizomycota",
+   "n": 44,
+   "named": 0.1590909090909091
+  },
+  {
+   "phylum": "Monoblepharomycota",
+   "n": 35,
+   "named": 0.11428571428571428
+  },
+  {
+   "phylum": "Basidiobolomycota",
+   "n": 34,
+   "named": 0.2647058823529412
+  },
+  {
+   "phylum": "Sanchytriomycota",
+   "n": 28,
+   "named": 0.0
+  },
+  {
+   "phylum": "Aphelidiomycota",
+   "n": 21,
+   "named": 0.0
+  },
+  {
+   "phylum": "Entomophthoromycota",
+   "n": 16,
+   "named": 0.5625
+  },
+  {
+   "phylum": "Calcarisporiellomycota",
+   "n": 9,
+   "named": 0.1111111111111111
+  }
+ ],
+ "by_class": [
+  {
+   "class": "Agaricomycetes",
+   "n": 33535,
+   "named": 0.3728045325779037
+  },
+  {
+   "class": "Sordariomycetes",
+   "n": 10869,
+   "named": 0.4320544668322753
+  },
+  {
+   "class": "Dothideomycetes",
+   "n": 8080,
+   "named": 0.3925742574257426
+  },
+  {
+   "class": "(unassigned)",
+   "n": 6604,
+   "named": 0.0
+  },
+  {
+   "class": "Eurotiomycetes",
+   "n": 5499,
+   "named": 0.3142389525368249
+  },
+  {
+   "class": "Lecanoromycetes",
+   "n": 4917,
+   "named": 0.7571690054911532
+  },
+  {
+   "class": "Leotiomycetes",
+   "n": 4908,
+   "named": 0.26548492257538714
+  },
+  {
+   "class": "Pezizomycetes",
+   "n": 2739,
+   "named": 0.3778751369112815
+  },
+  {
+   "class": "Saccharomycetes",
+   "n": 1744,
+   "named": 0.6519495412844036
+  },
+  {
+   "class": "Glomeromycetes",
+   "n": 1568,
+   "named": 0.25892857142857145
+  },
+  {
+   "class": "Tremellomycetes",
+   "n": 996,
+   "named": 0.45481927710843373
+  },
+  {
+   "class": "Orbiliomycetes",
+   "n": 839,
+   "named": 0.3396901072705602
+  },
+  {
+   "class": "Mortierellomycetes",
+   "n": 645,
+   "named": 0.13488372093023257
+  },
+  {
+   "class": "Mucoromycetes",
+   "n": 628,
+   "named": 0.5859872611464968
+  },
+  {
+   "class": "Spizellomycetes",
+   "n": 495,
+   "named": 0.050505050505050504
+  },
+  {
+   "class": "Rozellomycotina cls Incertae sedis",
+   "n": 465,
+   "named": 0.0
+  },
+  {
+   "class": "Pucciniomycetes",
+   "n": 460,
+   "named": 0.758695652173913
+  },
+  {
+   "class": "Zoopagomycetes",
+   "n": 455,
+   "named": 0.06153846153846154
+  },
+  {
+   "class": "Pezizomycotina cls Incertae sedis",
+   "n": 447,
+   "named": 0.15212527964205816
+  },
+  {
+   "class": "Microbotryomycetes",
+   "n": 423,
+   "named": 0.4657210401891253
+  }
+ ]
+}
